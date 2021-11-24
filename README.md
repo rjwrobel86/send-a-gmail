@@ -1,2 +1,2 @@
-# SendAGmail
-Using Python to send a Gmail
+# Send A Gmail With Python
+Using Python to send an email with Gmail
